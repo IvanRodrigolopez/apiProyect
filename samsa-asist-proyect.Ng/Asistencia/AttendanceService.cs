@@ -37,5 +37,12 @@ namespace samsa_asist_proyect.Ng.Asistencia
                 .ThenByDescending(r => r.Time)
                 .ToListAsync();
         }
+
+        public async Task<List<AttendanceRecord>> GetPorSucursalAsync(string sucursal)
+        {
+            return await _context.AttendanceRecords
+                .Where(r => r.Branch == sucursal)
+                .ToListAsync();
+        }
     }
 }

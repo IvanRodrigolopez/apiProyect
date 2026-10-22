@@ -14,6 +14,7 @@ namespace samsa_asist_proyect.Dt.AppBdContext
 
         // Aquí mapeamos la tabla
         public DbSet<AttendanceRecord> AttendanceRecords { get; set; }
+        public DbSet<Sucursal> Sucursales { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -36,6 +37,15 @@ namespace samsa_asist_proyect.Dt.AppBdContext
                 entity.Property(e => e.ImageUrl)
                       .HasMaxLength(500);
             });
+
+            // Configuración para Sucursales
+            modelBuilder.Entity<Sucursal>(entity =>
+            {
+                entity.ToTable("Sucursales");
+                entity.HasKey(e => e.Id);
+                entity.Property(e => e.Nombre).IsRequired().HasMaxLength(100);
+            });
+
         }
     }
     }

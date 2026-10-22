@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vlLQTYy4Hwk=",
+  "dgSpecHash": "OmxQXspIlhM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj",
+  "projectFilePath": "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.2-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.2-preview.1.nupkg.sha512"
+    "C:\\Users\\rodro\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.2-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.2-preview.1.nupkg.sha512"
   ],
   "logs": []
 }

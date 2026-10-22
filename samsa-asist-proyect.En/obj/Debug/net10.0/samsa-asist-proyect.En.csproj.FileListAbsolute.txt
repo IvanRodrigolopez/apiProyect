@@ -1,0 +1,15 @@
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\bin\Debug\net10.0\samsa-asist-proyect.En.exe
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\bin\Debug\net10.0\samsa-asist-proyect.En.deps.json
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\bin\Debug\net10.0\samsa-asist-proyect.En.runtimeconfig.json
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\bin\Debug\net10.0\samsa-asist-proyect.En.dll
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\bin\Debug\net10.0\samsa-asist-proyect.En.pdb
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\samsa-asist-proyect.En.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\samsa-asist-proyect.En.AssemblyInfoInputs.cache
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\samsa-asist-proyect.En.AssemblyInfo.cs
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\samsa-asist-proyect.En.csproj.CoreCompileInputs.cache
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\samsa-asist-proyect.En.sourcelink.json
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\samsa-asist-proyect.En.dll
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\refint\samsa-asist-proyect.En.dll
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\samsa-asist-proyect.En.pdb
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\samsa-asist-proyect.En.genruntimeconfig.cache
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\ref\samsa-asist-proyect.En.dll

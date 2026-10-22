@@ -4,24 +4,15 @@ using samsa_asist_proyect.Ng.Asistencia;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
-
-// Add services to the container.
-
-builder.Services.AddControllers();
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
-
-
 // 1. Agregar controladores y Swagger
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
-//builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(); // 👈 AQUÍ ESTABA EL ERROR (quitar las //)
 
 // 2. Configurar MySQL
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+    options.UseMySQL(connectionString));
 
 // 3. Configurar CORS (para que Angular pueda hacer peticiones)
 builder.Services.AddCors(options =>
@@ -36,18 +27,20 @@ builder.Services.AddCors(options =>
 
 // Registrar el servicio de negocio
 builder.Services.AddScoped<AttendanceService>();
-
+builder.Services.AddScoped<SucursalService>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// 4. Configurar el pipeline HTTP
 if (app.Environment.IsDevelopment())
 {
-
-    app.MapOpenApi();
+    app.UseSwagger();      // 👈 Habilita el generador de Swagger
+    app.UseSwaggerUI();    // 👈 Habilita la interfaz gráfica de Swagger
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors("AllowAngular"); // 👈 IMPORTANTE: Agregué esta línea para que Angular no tenga errores de CORS
 
 app.UseAuthorization();
 
