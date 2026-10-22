@@ -25,6 +25,12 @@ builder.Services.AddCors(options =>
     });
 });
 
+builder.Services.Configure<Microsoft.AspNetCore.Http.Features.FormOptions>(options =>
+{
+    options.MultipartBodyLengthLimit = 52428800; // 50 MB
+});
+
+
 // Registrar el servicio de negocio
 builder.Services.AddScoped<AttendanceService>();
 builder.Services.AddScoped<SucursalService>();
@@ -39,6 +45,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseStaticFiles();
 
 app.UseCors("AllowAngular"); // 👈 IMPORTANTE: Agregué esta línea para que Angular no tenga errores de CORS
 

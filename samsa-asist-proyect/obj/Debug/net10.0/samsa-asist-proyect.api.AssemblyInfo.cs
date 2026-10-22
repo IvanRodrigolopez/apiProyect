@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("samsa-asist-proyect.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9775d960fd12cc63d3180bb55d13ce5ad551eba5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff1f77b1a4b4f63664990affa26303535c91c8a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("samsa-asist-proyect.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("samsa-asist-proyect.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
