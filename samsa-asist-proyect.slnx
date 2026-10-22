@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="samsa-asist-proyect.Dt/samsa-asist-proyect.Dt.csproj" />
+  <Project Path="samsa-asist-proyect.En/samsa-asist-proyect.En.csproj" />
+  <Project Path="samsa-asist-proyect.Ng/samsa-asist-proyect.Ng.csproj" />
+  <Project Path="samsa-asist-proyect/samsa-asist-proyect.api.csproj" />
+</Solution>

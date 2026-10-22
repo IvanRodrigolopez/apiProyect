@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1B8233-47CD-E5A8-10CF-0402E40FA629}|samsa-asist-proyect\\samsa-asist-proyect.api.csproj|c:\\users\\dell\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect\\controllers\\asistencia\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1B8233-47CD-E5A8-10CF-0402E40FA629}|samsa-asist-proyect\\samsa-asist-proyect.api.csproj|solutionrelative:samsa-asist-proyect\\controllers\\asistencia\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1B8233-47CD-E5A8-10CF-0402E40FA629}|samsa-asist-proyect\\samsa-asist-proyect.api.csproj|c:\\users\\dell\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1B8233-47CD-E5A8-10CF-0402E40FA629}|samsa-asist-proyect\\samsa-asist-proyect.api.csproj|solutionrelative:samsa-asist-proyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1B8233-47CD-E5A8-10CF-0402E40FA629}|samsa-asist-proyect\\samsa-asist-proyect.api.csproj|c:\\users\\dell\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD1B8233-47CD-E5A8-10CF-0402E40FA629}|samsa-asist-proyect\\samsa-asist-proyect.api.csproj|solutionrelative:samsa-asist-proyect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD88DA77-C679-E2BE-3CD4-240286FBA399}|samsa-asist-proyect.Dt\\samsa-asist-proyect.Dt.csproj|c:\\users\\dell\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.dt\\appbdcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD88DA77-C679-E2BE-3CD4-240286FBA399}|samsa-asist-proyect.Dt\\samsa-asist-proyect.Dt.csproj|solutionrelative:samsa-asist-proyect.dt\\appbdcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2EB529-78D5-67F7-9F89-98AF5BDA58AF}|samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj|c:\\users\\dell\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.en\\asistencia\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2EB529-78D5-67F7-9F89-98AF5BDA58AF}|samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj|solutionrelative:samsa-asist-proyect.en\\asistencia\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C4EBB2-4D96-8935-407C-C72C4438BCE7}|samsa-asist-proyect.Ng\\samsa-asist-proyect.Ng.csproj|c:\\users\\dell\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.ng\\asistencia\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C4EBB2-4D96-8935-407C-C72C4438BCE7}|samsa-asist-proyect.Ng\\samsa-asist-proyect.Ng.csproj|solutionrelative:samsa-asist-proyect.ng\\asistencia\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect\\Program.cs",
+              "RelativeDocumentMoniker": "samsa-asist-proyect\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect\\Program.cs",
+              "RelativeToolTip": "samsa-asist-proyect\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T22:41:45.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect\\appsettings.json",
+              "RelativeDocumentMoniker": "samsa-asist-proyect\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect\\appsettings.json",
+              "RelativeToolTip": "samsa-asist-proyect\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-21T22:41:11.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.Dt\\AppBdContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "samsa-asist-proyect.Dt\\AppBdContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.Dt\\AppBdContext\\AppDbContext.cs",
+              "RelativeToolTip": "samsa-asist-proyect.Dt\\AppBdContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T22:40:29.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttendanceRecord.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.En\\Asistencia\\AttendanceRecord.cs",
+              "RelativeDocumentMoniker": "samsa-asist-proyect.En\\Asistencia\\AttendanceRecord.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.En\\Asistencia\\AttendanceRecord.cs",
+              "RelativeToolTip": "samsa-asist-proyect.En\\Asistencia\\AttendanceRecord.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T22:38:04.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.Ng\\Asistencia\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "samsa-asist-proyect.Ng\\Asistencia\\AttendanceService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.Ng\\Asistencia\\AttendanceService.cs",
+              "RelativeToolTip": "samsa-asist-proyect.Ng\\Asistencia\\AttendanceService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wCEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T22:33:46.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsistenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect\\Controllers\\Asistencia\\AsistenciaController.cs",
+              "RelativeDocumentMoniker": "samsa-asist-proyect\\Controllers\\Asistencia\\AsistenciaController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect\\Controllers\\Asistencia\\AsistenciaController.cs",
+              "RelativeToolTip": "samsa-asist-proyect\\Controllers\\Asistencia\\AsistenciaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T22:34:36.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

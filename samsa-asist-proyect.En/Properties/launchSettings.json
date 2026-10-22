@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "samsa-asist-proyect.En": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

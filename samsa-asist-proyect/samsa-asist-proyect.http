@@ -1,0 +1,6 @@
+@samsa_asist_proyect_HostAddress = http://localhost:5108
+
+GET {{samsa_asist_proyect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
