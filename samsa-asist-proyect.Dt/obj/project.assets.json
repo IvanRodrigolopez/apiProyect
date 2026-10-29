@@ -1316,23 +1316,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rodro\\.nuget\\packages\\": {},
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect.Dt\\samsa-asist-proyect.Dt.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.Dt\\samsa-asist-proyect.Dt.csproj",
       "projectName": "samsa-asist-proyect.Dt",
-      "projectPath": "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect.Dt\\samsa-asist-proyect.Dt.csproj",
-      "packagesPath": "C:\\Users\\rodro\\.nuget\\packages\\",
-      "outputPath": "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect.Dt\\obj\\",
+      "projectPath": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.Dt\\samsa-asist-proyect.Dt.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.Dt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\rodro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1348,8 +1348,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj": {
-              "projectPath": "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj"
+            "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj": {
+              "projectPath": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj"
             }
           }
         }
@@ -1364,7 +1364,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net10.0": {
@@ -1396,7 +1396,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
