@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj": {}
+    "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj": {}
   },
   "projects": {
-    "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj",
         "projectName": "samsa-asist-proyect.En",
-        "projectPath": "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj",
-        "packagesPath": "C:\\Users\\rodro\\.nuget\\packages\\",
-        "outputPath": "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect.En\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.En\\samsa-asist-proyect.En.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\samsa-asist-proyect\\samsa-asist-proyect.En\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rodro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -73,7 +73,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
+>>>>>>> b9a52d83b8785596e745a9b76610954317324bfa
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -21,6 +21,8 @@ namespace samsa_asist_proyect.En.Asistencia
         // 👇 NUEVO CAMPO
         public bool IsRestDay { get; set; } = false;
 
+        public bool IsAbsence { get; set; } = false;
+
         // Fecha en la que se creó el registro (buena práctica)
         public DateTime CreatedAt { get; set; } = DateTime.Now;
     }
