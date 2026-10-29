@@ -126,3 +126,11 @@ C:\Users\DELL\source\repos\samsa-asist-proyect\samsa-asist-proyect.Ng\bin\Debug\
 C:\Users\DELL\source\repos\samsa-asist-proyect\samsa-asist-proyect.Ng\obj\Debug\net10.0\samsa-as.53CA5E2B.Up2Date
 C:\Users\DELL\source\repos\samsa-asist-proyect\samsa-asist-proyect.Ng\obj\Debug\net10.0\samsa-asist-proyect.Ng.genruntimeconfig.cache
 C:\Users\DELL\source\repos\samsa-asist-proyect\samsa-asist-proyect.Ng\obj\Debug\net10.0\ref\samsa-asist-proyect.Ng.dll
+D:\ProyectAn\apiProyect\samsa-asist-proyect.Ng\bin\Debug\net10.0\ClosedXML.dll
+D:\ProyectAn\apiProyect\samsa-asist-proyect.Ng\bin\Debug\net10.0\ClosedXML.Parser.dll
+D:\ProyectAn\apiProyect\samsa-asist-proyect.Ng\bin\Debug\net10.0\DocumentFormat.OpenXml.dll
+D:\ProyectAn\apiProyect\samsa-asist-proyect.Ng\bin\Debug\net10.0\DocumentFormat.OpenXml.Framework.dll
+D:\ProyectAn\apiProyect\samsa-asist-proyect.Ng\bin\Debug\net10.0\ExcelNumberFormat.dll
+D:\ProyectAn\apiProyect\samsa-asist-proyect.Ng\bin\Debug\net10.0\RBush.dll
+D:\ProyectAn\apiProyect\samsa-asist-proyect.Ng\bin\Debug\net10.0\SixLabors.Fonts.dll
+D:\ProyectAn\apiProyect\samsa-asist-proyect.Ng\bin\Debug\net10.0\System.IO.Packaging.dll
