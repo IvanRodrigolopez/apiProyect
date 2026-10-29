@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\ProyectAn\\apiProyect\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7C4EBB2-4D96-8935-407C-C72C4438BCE7}|samsa-asist-proyect.Ng\\samsa-asist-proyect.Ng.csproj|d:\\proyectan\\apiproyect\\samsa-asist-proyect.ng\\asistencia\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7C4EBB2-4D96-8935-407C-C72C4438BCE7}|samsa-asist-proyect.Ng\\samsa-asist-proyect.Ng.csproj|solutionrelative:samsa-asist-proyect.ng\\asistencia\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD1B8233-47CD-E5A8-10CF-0402E40FA629}|samsa-asist-proyect\\samsa-asist-proyect.api.csproj|d:\\proyectan\\apiproyect\\samsa-asist-proyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1B8233-47CD-E5A8-10CF-0402E40FA629}|samsa-asist-proyect\\samsa-asist-proyect.api.csproj|solutionrelative:samsa-asist-proyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD1B8233-47CD-E5A8-10CF-0402E40FA629}|samsa-asist-proyect\\samsa-asist-proyect.api.csproj|d:\\proyectan\\apiproyect\\samsa-asist-proyect\\controllers\\asistencia\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD1B8233-47CD-E5A8-10CF-0402E40FA629}|samsa-asist-proyect\\samsa-asist-proyect.api.csproj|solutionrelative:samsa-asist-proyect\\controllers\\asistencia\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD1B8233-47CD-E5A8-10CF-0402E40FA629}|samsa-asist-proyect\\samsa-asist-proyect.api.csproj|d:\\proyectan\\apiproyect\\samsa-asist-proyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD1B8233-47CD-E5A8-10CF-0402E40FA629}|samsa-asist-proyect\\samsa-asist-proyect.api.csproj|solutionrelative:samsa-asist-proyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7C4EBB2-4D96-8935-407C-C72C4438BCE7}|samsa-asist-proyect.Ng\\samsa-asist-proyect.Ng.csproj|d:\\proyectan\\apiproyect\\samsa-asist-proyect.ng\\asistencia\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C4EBB2-4D96-8935-407C-C72C4438BCE7}|samsa-asist-proyect.Ng\\samsa-asist-proyect.Ng.csproj|solutionrelative:samsa-asist-proyect.ng\\asistencia\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD1B8233-47CD-E5A8-10CF-0402E40FA629}|samsa-asist-proyect\\samsa-asist-proyect.api.csproj|d:\\proyectan\\apiproyect\\samsa-asist-proyect\\samsa-asist-proyect.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -56,14 +56,14 @@
               "RelativeDocumentMoniker": "samsa-asist-proyect\\Controllers\\Asistencia\\AsistenciaController.cs",
               "ToolTip": "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect\\Controllers\\Asistencia\\AsistenciaController.cs",
               "RelativeToolTip": "samsa-asist-proyect\\Controllers\\Asistencia\\AsistenciaController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBgAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwEsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-22T12:41:40.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AttendanceService.cs",
               "DocumentMoniker": "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect.Ng\\Asistencia\\AttendanceService.cs",
               "RelativeDocumentMoniker": "samsa-asist-proyect.Ng\\Asistencia\\AttendanceService.cs",
@@ -71,13 +71,12 @@
               "RelativeToolTip": "samsa-asist-proyect.Ng\\Asistencia\\AttendanceService.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAswC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T12:40:54.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-22T12:40:54.31Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "samsa-asist-proyect.api",
+              "Title": "samsa-asist-proyect.api.csproj",
               "DocumentMoniker": "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect\\samsa-asist-proyect.api.csproj",
               "RelativeDocumentMoniker": "samsa-asist-proyect\\samsa-asist-proyect.api.csproj",
               "ToolTip": "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect\\samsa-asist-proyect.api.csproj",
@@ -97,18 +96,17 @@
               "RelativeToolTip": "samsa-asist-proyect\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-22T12:17:46.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-22T12:17:46.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect\\Program.cs",
               "RelativeDocumentMoniker": "samsa-asist-proyect\\Program.cs",
               "ToolTip": "D:\\ProyectAn\\apiProyect\\samsa-asist-proyect\\Program.cs",
               "RelativeToolTip": "samsa-asist-proyect\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-22T12:12:06.395Z",
               "EditorCaption": ""
@@ -123,8 +121,7 @@
               "RelativeToolTip": "samsa-asist-proyect\\Controllers\\Asistencia\\SucursalController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T11:59:11.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-22T11:59:11.888Z"
             },
             {
               "$type": "Document",
@@ -136,8 +133,7 @@
               "RelativeToolTip": "samsa-asist-proyect.Ng\\Asistencia\\SucursalService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T11:57:10.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-22T11:57:10.141Z"
             },
             {
               "$type": "Document",
@@ -149,8 +145,7 @@
               "RelativeToolTip": "samsa-asist-proyect.Dt\\AppBdContext\\AppDbContext.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T11:55:13.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-22T11:55:13.786Z"
             },
             {
               "$type": "Document",
@@ -162,8 +157,7 @@
               "RelativeToolTip": "samsa-asist-proyect.En\\Asistencia\\Sucursal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T11:54:43.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-22T11:54:43.479Z"
             }
           ]
         }

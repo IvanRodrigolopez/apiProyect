@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "samsa-asist-proyect.En/1.0.0": {
+        "runtime": {
+          "samsa-asist-proyect.En.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "samsa-asist-proyect.En/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

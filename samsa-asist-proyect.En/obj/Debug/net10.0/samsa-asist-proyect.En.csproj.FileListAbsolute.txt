@@ -13,3 +13,4 @@ D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\refint\samsa-as
 D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\samsa-asist-proyect.En.pdb
 D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\samsa-asist-proyect.En.genruntimeconfig.cache
 D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\ref\samsa-asist-proyect.En.dll
+D:\ProyectAn\apiProyect\samsa-asist-proyect.En\obj\Debug\net10.0\samsa-as.4EC33F1C.Up2Date

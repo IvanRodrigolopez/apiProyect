@@ -19,7 +19,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAngular", policy =>
     {
-        policy.WithOrigins("http://localhost:4200") // El puerto de tu Angular
+        policy.AllowAnyOrigin() // El puerto de tu Angular
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
@@ -38,11 +38,11 @@ builder.Services.AddScoped<SucursalService>();
 var app = builder.Build();
 
 // 4. Configurar el pipeline HTTP
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();      // 👈 Habilita el generador de Swagger
     app.UseSwaggerUI();    // 👈 Habilita la interfaz gráfica de Swagger
-}
+//}
 
 app.UseHttpsRedirection();
 
