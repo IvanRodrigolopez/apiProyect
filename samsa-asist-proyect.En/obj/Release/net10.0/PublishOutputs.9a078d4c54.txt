@@ -1,5 +1,0 @@
-D:\ProyectAn\apiProyect\publish\samsa-asist-proyect.En.exe
-D:\ProyectAn\apiProyect\publish\samsa-asist-proyect.En.dll
-D:\ProyectAn\apiProyect\publish\samsa-asist-proyect.En.deps.json
-D:\ProyectAn\apiProyect\publish\samsa-asist-proyect.En.runtimeconfig.json
-D:\ProyectAn\apiProyect\publish\samsa-asist-proyect.En.pdb

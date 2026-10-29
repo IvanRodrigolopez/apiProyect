@@ -1,0 +1,70 @@
+# ==========================================
+# .NET / C# Core
+# ==========================================
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Resultados de compilación
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Oo]ut/
+
+# ==========================================
+# Archivos de configuración local (Secretos)
+# ==========================================
+# Si tienes contraseñas en appsettings, NO lo subas. 
+# En su lugar, sube un appsettings.Example.json
+appsettings.Development.json
+appsettings.Production.json
+*.local.json
+
+# ==========================================
+# Frontend (Angular/Node) - Por si tienes el front en la misma solución
+# ==========================================
+node_modules/
+dist/
+tmp/
+out-tsc/
+.angular/
+coverage/
+npm-debug.log
+yarn-error.log
+
+# ==========================================
+# Archivos del sistema operativo
+# ==========================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ==========================================
+# Archivos de la carpeta wwwroot (Fotos subidas)
+# ==========================================
+# Si guardas las fotos de asistencia en wwwroot/images, 
+# es mejor NO subirlas al repositorio para no llenarlo de basura.
+wwwroot/images/
+wwwroot/uploads/
