@@ -178,9 +178,10 @@ namespace samsa_asist_proyect.Ng.Asistencia
             foreach (var suc in sucursales)
             {
                 worksheet.Cell(fila, 1).Value = suc.Nombre;
-                worksheet.Cell(fila, 2).Value = "Guardia Asignado"; // (Si tienes el nombre real, cámbialo aquí)
+                worksheet.Cell(fila, 2).Value = "Guardia Asignado";
 
                 int totalAsistencias = 0;
+                int totalDescansos = 0;
                 int totalFaltas = 0;
 
                 for (int dia = 1; dia <= diasEnElMes; dia++)
@@ -193,34 +194,44 @@ namespace samsa_asist_proyect.Ng.Asistencia
                     {
                         if (registro.IsAbsence)
                         {
-                            celda.Value = 0; // Falta
-                            celda.Style.Fill.SetBackgroundColor(XLColor.LightPink);
+                            // 🟡 FALTA (Amarillo)
+                            celda.Value = 0;
+                            celda.Style.Fill.SetBackgroundColor(XLColor.FromHtml("#eab308")); // Amarillo
+                            celda.Style.Font.SetFontColor(XLColor.White);
                             totalFaltas++;
                         }
                         else if (registro.IsRestDay)
                         {
-                            celda.Value = "D"; // Descanso
-                            celda.Style.Fill.SetBackgroundColor(XLColor.LightYellow);
+                            // 🟢 DESCANSO (Verde)
+                            celda.Value = "D";
+                            celda.Style.Fill.SetBackgroundColor(XLColor.FromHtml("#22c55e")); // Verde
+                            celda.Style.Font.SetFontColor(XLColor.White);
+                            totalDescansos++;
                         }
                         else
                         {
-                            celda.Value = 1; // Asistencia
-                            celda.Style.Fill.SetBackgroundColor(XLColor.LightGreen);
+                            // ⚪ ASISTENCIA (Gris)
+                            celda.Value = 1;
+                            celda.Style.Fill.SetBackgroundColor(XLColor.FromHtml("#9ca3af")); // Gris
+                            celda.Style.Font.SetFontColor(XLColor.White);
                             totalAsistencias++;
                         }
                     }
                     else
                     {
-                        // Si no hay registro, evaluamos si es un día futuro
+                        // Si no hay registro y el día ya pasó, asumimos falta
                         var fechaCelda = new DateTime(anio, mes, dia);
                         if (fechaCelda <= DateTime.Today)
                         {
-                            celda.Value = 0; // Asumimos falta si ya pasó el día y no hay registro
-                            celda.Style.Fill.SetBackgroundColor(XLColor.LightPink);
+                            celda.Value = 0;
+                            celda.Style.Fill.SetBackgroundColor(XLColor.FromHtml("#eab308")); // Amarillo
+                            celda.Style.Font.SetFontColor(XLColor.White);
                             totalFaltas++;
                         }
                     }
                 }
+
+                // Escribir los totales al final de la fila
                 worksheet.Cell(fila, diasEnElMes + 3).Value = totalFaltas;
                 worksheet.Cell(fila, diasEnElMes + 4).Value = totalAsistencias;
                 fila++;
